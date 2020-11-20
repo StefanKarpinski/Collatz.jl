@@ -13,4 +13,4 @@ function collatz(n::Integer)
     return k
 end
 
-end
+end # module
